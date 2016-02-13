@@ -1,0 +1,2 @@
+Solutions:
+In this problem I imagine a network of health profiles and a graph learning multivariate data to predict patient health profiles based on geospatial locality profiles. I wont give much details now but would like to title the image as "Adaptive health network"
